@@ -1,1 +1,1 @@
-# Projects-using-python
+This repository contains some basic projects using python.
